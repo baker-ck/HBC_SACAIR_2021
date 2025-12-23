@@ -1,4 +1,4 @@
-# human_belief_change
+# SACAIR2021: Human Belief Change
 
 This repository contains files related to the human belief change research project, undertaken by Clayton K. Baker (Master's student at the time of writing at the University of Cape Town and CAIR) and Tommie Meyer (Professor of Computer Science at the University of Cape Town and CAIR).
 
